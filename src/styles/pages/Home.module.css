@@ -9,6 +9,7 @@
 }
 
 .container section {
+  margin-top: 5rem;
   flex: 1;
 
   display: grid;
